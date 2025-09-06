@@ -1,0 +1,7 @@
+--indent 4
+--allman false
+--maxwidth 150
+--trimwhitespace always
+--wrapcollections beforefirst
+--stripunusedargs closure-only
+
