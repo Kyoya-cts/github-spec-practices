@@ -1,0 +1,15 @@
+disabled_rules:
+  - trailing_whitespace
+  - identifier_name
+  - force_cast
+  - force_try
+line_length:
+  warning: 150
+  error: 200
+type_body_length:
+  warning: 300
+  error: 400
+file_length:
+  warning: 800
+  error: 1200
+
